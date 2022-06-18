@@ -42,13 +42,13 @@
   animation: jump 2.2s 800ms infinite;
 }
 .bubble:nth-child(8) {
-  animation: jump 2.2s 800ms infinite;
+  animation: jump 2.2s 900ms infinite;
 }
 .bubble:nth-child(9) {
-  animation: jump 2.2s 800ms infinite;
+  animation: jump 2.2s 1000ms infinite;
 }
 .bubble:nth-child(10) {
-  animation: jump 2.2s 800ms infinite;
+  animation: jump 2.2s 1100ms infinite;
 }
 
 @keyframes jump {
